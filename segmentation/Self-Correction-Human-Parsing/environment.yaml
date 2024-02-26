@@ -1,0 +1,48 @@
+name: schp
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - blas=1.0=mkl
+  - ca-certificates=2020.12.8
+  - certifi=2020.12.5
+  - freetype=2.10.4
+  - intel-openmp=2020.2=254
+  - jpeg=9b
+  - lcms2=2.11
+  - ld_impl_linux-64=2.33.1
+  - libedit=3.1.20191231
+  - libffi=3.3
+  - libgcc-ng=9.1.0
+  - libpng=1.6.37
+  - libstdcxx-ng=9.1.0
+  - libtiff=4.1.0
+  - lz4-c=1.9.2
+  - mkl=2020.2
+  - mkl-service=2.3.0
+  - mkl_fft=1.2.0
+  - mkl_random=1.1.1
+  - ncurses=6.2
+  - ninja=1.10.2
+  - numpy=1.19.2
+  - numpy-base=1.19.2
+  - olefile=0.46
+  - openssl=1.1.1i
+  - pillow=8.0.1
+  - pip=20.3.3
+  - python=3.8.13
+  - readline=8.0
+  - setuptools=51.0.0
+  - six=1.15.0
+  - sqlite=3.33.0
+  - tk=8.6.10
+  - tqdm=4.55.0
+  - wheel=0.36.2
+  - xz=5.2.5
+  - zlib=1.2.11
+  - zstd=1.4.5
+  - pytorch=1.13.0=py3.8_cuda11.7_cudnn8.5.0_0
+  - torchvision=0.9.1
+prefix: /home/peike/opt/anaconda3/envs/schp
+
